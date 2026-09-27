@@ -15,7 +15,7 @@ local LocalPlayer = Players.LocalPlayer
 -- Your API endpoint.
 -- Example:
 -- https://your-domain.com/verify
-local VERIFY_URL = "https://YOUR-DOMAIN/verify"
+local VERIFY_URL = "http://78.154.103.49:10619/verify"
 
 -- Optional Discord invite for obtaining a key.
 local DISCORD_INVITE = "https://discord.gg/nsSppfHHfx"
